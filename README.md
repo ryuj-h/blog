@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# 리액트 스터디
+
+혼자 삽질하면서 배우는 리액트 스터디입니다.
+
+밑엔 다 무시해도 되는 글이구요
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
