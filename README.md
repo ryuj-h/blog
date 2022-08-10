@@ -2,11 +2,19 @@
 
 혼자 삽질하면서 배우는 리액트 스터디입니다.
 
-밑엔 다 무시해도 되는 글이구요
+# 기록
+
+1
+https://www.notion.so/1-aac57c0f0fc641038764a8b007a47133
+2
+https://www.notion.so/2-91e5ed902c974caaab1206cb9d2d39f0
+3
+https://www.notion.so/3-fb301feabc674e24bbd2316b13228743
 
 
 
 
+# 튜토리얼_
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
