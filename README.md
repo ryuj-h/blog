@@ -5,11 +5,11 @@
 # 기록
 
 1\
-https://www.notion.so/1-aac57c0f0fc641038764a8b007a47133
+https://www.notion.so/3-fb301feabc674e24bbd2316b13228743
 \
 \
 2\
-https://www.notion.so/2-91e5ed902c974caaab1206cb9d2d39f0
+https://www.notion.so/3-fb301feabc674e24bbd2316b13228743
 \
 \
 3\
